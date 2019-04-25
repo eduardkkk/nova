@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <rss version="2.0">
+    <channel>
+      <item>
+      <title>Noticias de mercados</title>
+      <link>http://www.expansion.com/mercados/2019/04/25/5cc1da77268e3e82328b457b.html</link>
+      <descripcion>Microsoft alcanza el billón de dólares en Bolsa</descripcion>
+    </item>
+    <item>
+      <title>Noticias de transporte y turismo</title>
+      <link>http://www.expansion.com/empresas/transporte/2019/04/25/5cc1dcd8268e3ee0508b45b7.html</link>
+      <descripcion>Aena eleva al 3,7% su previsión de crecimiento del tráfico de pasajeros para 2019</descripcion>
+    </item>
+    <item>
+      <title>Noticias de energía</title>
+      <link>http://www.expansion.com/empresas/energia/2019/04/25/5cc14a6c468aeb59448b45e2.html</link>
+      <descripcion>Aena eleva al 3,7% su previsión de crecimiento del tráfico de pasajeros para 2019</descripcion>
+    </item>
+    <item>
+      <title>Noticias de empleo</title>
+      <link>http://www.expansion.com/valencia/2019/04/17/5cb6ecb0e5fdea8c6e8b45c6.html</link>
+      <descripcion>Mercadona busca 200 informáticos</descripcion>
+    </item>
+    <item>
+      <title>Noticias jurídicas</title>
+      <link>http://www.expansion.com/juridico/sentencias/2019/04/04/5ca639c6268e3ef4328b4592.html</link>
+      <descripcion>Artiach pierde un contencioso por la patente de sus galletas de dinosaurios </descripcion>
+    </item>
+    </channel>
+  </rss>
